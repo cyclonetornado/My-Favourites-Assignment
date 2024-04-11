@@ -1,0 +1,67 @@
+html {
+  background: url("img/images-10.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.61);
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-width: 100px;
+}
+
+h1,
+h2 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+  font-size: 75px;
+  color: white;
+}
+
+.center {
+  text-align: center;
+}
+
+.sleepH2 {
+  margin-top: 50px;
+  color: #a0bfce;
+}
+
+.sleepP {
+  color: #a0bfce;
+}
+
+.duolingoH2 {
+  color: rgb(87, 206, 1);
+}
+
+.duolingoP {
+  color: rgb(87, 206, 1);
+}
+
+.duolingoUL {
+  color: rgba(223, 148, 3, 255);
+}
+
+.compSciH2 {
+  color: rgb(0, 255, 255);
+}
+
+.compSciP {
+  color: rgb(0, 255, 255);
+}
+
+a {
+  color: rgb(255, 255, 255);
+}
+
+a:hover {
+  color: rgb(255, 0, 221);
+  text-underline-offset: 10px;
+  font-weight: bolder;
+}
